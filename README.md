@@ -11,24 +11,27 @@
 
 1.開啟terminal並且clone此專案至本機電腦
 ```
-Give the example
+git clone https://github.com/Shiba-Patrick/restaurantList.git
 ```
 2.輸入cd指令找到存放專案的資料夾，並輸入其名稱
 ```
-until finished
+cd restaurant_list
 ```
 3.安裝npm套件
 ```
-Give the example
+npm install
 ```
 4.使用nodemon來執行app.js
 ```
-until finished
+nodemon app.js
 ```
-5.成功顯示字串
+5.成功顯示字串:伺服器順利啟動
 ```
-Give the example
+The express is listening on http://localhost:3000
 ```
+現在！您可以開啟任一瀏覽器輸入　http://localhost:3000
+開始試用次餐廳清單了喔！
+
 ## 開發工具
 
 * Node.js
