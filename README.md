@@ -9,7 +9,7 @@
 
 ## 安裝方式
 
-1.開啟<<terminal>>並且<<clone>>此專案至本機電腦
+1.開啟terminal並且clone此專案至本機電腦
 ```
 Give the example
 ```
