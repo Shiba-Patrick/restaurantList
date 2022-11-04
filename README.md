@@ -15,7 +15,7 @@ git clone https://github.com/Shiba-Patrick/restaurantList.git
 ```
 2.輸入cd指令找到存放專案的資料夾，並輸入其名稱
 ```
-cd restaurant_list
+cd restaurantList
 ```
 3.安裝npm套件
 ```
