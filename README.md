@@ -29,8 +29,10 @@ nodemon app.js
 ```
 The express is listening on http://localhost:3000
 ```
-現在！您可以開啟任一瀏覽器輸入　http://localhost:3000
-
+現在！您可以開啟任一瀏覽器輸入　
+```
+http://localhost:3000
+```
 開始試用此餐廳清單了喔！
 
 ## 開發工具
